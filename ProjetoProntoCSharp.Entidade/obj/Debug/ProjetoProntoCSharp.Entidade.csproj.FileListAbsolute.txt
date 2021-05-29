@@ -1,0 +1,6 @@
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Entidade\bin\Debug\ProjetoProntoCSharp.Entidade.dll
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Entidade\bin\Debug\ProjetoProntoCSharp.Entidade.pdb
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Entidade\obj\Debug\ProjetoProntoCSharp.Entidade.csprojAssemblyReference.cache
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Entidade\obj\Debug\ProjetoProntoCSharp.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Entidade\obj\Debug\ProjetoProntoCSharp.Entidade.dll
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Entidade\obj\Debug\ProjetoProntoCSharp.Entidade.pdb

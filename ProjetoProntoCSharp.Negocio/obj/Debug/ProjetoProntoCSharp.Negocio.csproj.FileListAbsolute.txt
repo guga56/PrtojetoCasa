@@ -1,0 +1,11 @@
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\bin\Debug\ProjetoProntoCSharp.Negocio.dll
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\bin\Debug\ProjetoProntoCSharp.Negocio.pdb
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\bin\Debug\ProjetoProntoCSharp.DAL.dll
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\bin\Debug\ProjetoProntoCSharp.Entidade.dll
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\bin\Debug\ProjetoProntoCSharp.DAL.pdb
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\bin\Debug\ProjetoProntoCSharp.Entidade.pdb
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\obj\Debug\ProjetoProntoCSharp.Negocio.csprojAssemblyReference.cache
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\obj\Debug\ProjetoProntoCSharp.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\obj\Debug\ProjetoProntoCSharp.Negocio.csproj.CopyComplete
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\obj\Debug\ProjetoProntoCSharp.Negocio.dll
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.Negocio\obj\Debug\ProjetoProntoCSharp.Negocio.pdb

@@ -1,0 +1,9 @@
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.DAL\bin\Debug\ProjetoProntoCSharp.DAL.dll
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.DAL\bin\Debug\ProjetoProntoCSharp.DAL.pdb
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.DAL\bin\Debug\ProjetoProntoCSharp.Entidade.dll
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.DAL\bin\Debug\ProjetoProntoCSharp.Entidade.pdb
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.DAL\obj\Debug\ProjetoProntoCSharp.DAL.csprojAssemblyReference.cache
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.DAL\obj\Debug\ProjetoProntoCSharp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.DAL\obj\Debug\ProjetoProntoCSharp.DAL.csproj.CopyComplete
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.DAL\obj\Debug\ProjetoProntoCSharp.DAL.dll
+C:\Users\gustavo\Documents\ProjetoProntoCSharp\ProjetoProntoCSharp.DAL\obj\Debug\ProjetoProntoCSharp.DAL.pdb
