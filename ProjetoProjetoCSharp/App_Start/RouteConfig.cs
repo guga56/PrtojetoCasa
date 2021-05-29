@@ -16,7 +16,7 @@ namespace ProjetoProjetoCSharp
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "CadastrarLogin", action = "Cadastrar", id = UrlParameter.Optional }
             );
         }
     }

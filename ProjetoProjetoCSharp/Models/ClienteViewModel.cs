@@ -22,7 +22,6 @@ namespace ProjetoProjetoCSharp.Models
         public DisciplinaViewModel DisciplinaViewModel { get; set; }
 
         public LoginModelView LoginModelView { get; set; }
-
-        public ClienteViewModel ClienteViewModel { get; set; }
+        
     }
 }
